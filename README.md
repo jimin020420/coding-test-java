@@ -1,1 +1,1 @@
-# coding-test-java
+# Coding Test (Java) - Daily commits
